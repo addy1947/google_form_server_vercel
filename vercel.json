@@ -1,0 +1,13 @@
+{
+    "version": 2,
+    "routes": [
+        {
+            "src": "/health",
+            "dest": "/api/health.js"
+        },
+        {
+            "src": "/answer",
+            "dest": "/api/answer.js"
+        }
+    ]
+}
